@@ -8,12 +8,11 @@ body {
     background-color: palegreen;
     border: 5px dotted orange;
     border-radius: 20%;
-        
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto; 
 }
-#be-weird {
-    height: 100px;
-    width: 100px;
-}
+
 .container{
     border-radius: 25%;
     display: block;
@@ -61,4 +60,8 @@ h4 {
     margin: 20px;
     border-radius: 100%;
     opacity: 80%;
+    width: 50%;
+    
+    margin-left: auto;
+    margin-right: auto;
 }
